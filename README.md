@@ -2,7 +2,7 @@
 A basic Calorie Tracker using Pycharms.
 
 # *Project Overview* 
-* This sdg-py project was created to fulfill academic requirements, and in accordance with Sustainable Development Goals #3. 
+* This sdg project was created to fulfill academic requirements, and in accordance with Sustainable Development Goals #3. 
 
 # *Features*
 * The Food class is defined using the dataclass decorator from the dataclasses module, representing different food items with attributes such as name, calories, protein, fats, and carbs.
@@ -19,8 +19,21 @@ A basic Calorie Tracker using Pycharms.
 * Pycharm
 
 # *Group Assessment*
-![Clean Brown Paper Texture Background Page Border (1)](https://github.com/KeanaMay/Nutrition-Tracker/assets/153400825/2e29fe3b-6848-466f-9e5e-155ef04dafcb)
-
+## Group Assessment
+|  SR-CODE |       MEMBER      | GRADE |   CONTRIBUTION  |
+|:--------:|:-----------------:|:-----:|:---------------:|
+| 22-06012 | ARCOIREZ, APRIL C.   | 30%   | Coding |
+| 22-06261 |CATIPAN, ARAGAIL D. | 20%   | Coding  |
+| 22-00303 | ILAGAN, KEANA MAY C.| 31%   | Project Information |
+| 22-08898 | MARASIGAN, YHRON LIESHIEN O. | 19%   | Project Information  |
+|          | TOTAL             | 100%  |                 |
 
 # *Self Assessment*
-![assessment](https://github.com/KeanaMay/Nutrition-Tracker/assets/153400825/33ee30d4-3829-4851-8817-dc319c121d5b)
+|       Metric       | 4 | 3 | 2 | 1 |
+|:------------------:|:-:|:-:|:-:|:-:|
+| Code Reusability   |   |   | ✔ |   |
+| Maintainability    |   | ✔ |   |   |
+| Scalability        |   | ✔ |   |   |
+| Execution          |   | ✔|   |   |
+| Originality        |   |   | ✔ |   |
+| Overall Impression |   | ✔ |   |   |
