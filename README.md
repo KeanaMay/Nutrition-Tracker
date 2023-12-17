@@ -1,5 +1,5 @@
 # *SDG*
-A basic Calorie Tracker using Pycharms.
+Good Health and Well- being #3 in SDG A basic Calorie Tracker using Pycharms.
 
 # *Project Overview* 
 * This sdg project was created to fulfill academic requirements, and in accordance with Sustainable Development Goals #3. 
@@ -19,7 +19,6 @@ A basic Calorie Tracker using Pycharms.
 * Pycharm
 
 # *Group Assessment*
-## Group Assessment
 |  SR-CODE |       MEMBER      | GRADE |   CONTRIBUTION  |
 |:--------:|:-----------------:|:-----:|:---------------:|
 | 22-06012 | ARCOIREZ, APRIL C.   | 30%   | Coding |
