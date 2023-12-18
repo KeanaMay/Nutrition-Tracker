@@ -1,3 +1,11 @@
+# *Nutrition Tracker*
+
+# *Members*
+* Arcoirez April C.
+* Catipan Aragail D.
+* Ilagan, Keana May C.
+* Marasigan, Yhron Lieshien O.
+
 # *SDG*
 Good Health and Well- being #3 in SDG A basic Calorie Tracker using Pycharms.
 
