@@ -31,8 +31,8 @@ Good Health and Well- being #3 in SDG. A basic Calorie Tracker using Pycharms.
 |  SR-CODE |       MEMBER      | GRADE |   CONTRIBUTION  |
 |:--------:|:-----------------:|:-----:|:---------------:|
 | 22-06012 | ARCOIREZ, APRIL C.   | 30%   | Developer |
-| 22-06261 |CATIPAN, ARAGAIL D. | 20%   | Developer  |
-| 22-00303 | ILAGAN, KEANA MAY C.| 31%   | Project Information |
+| 22-06261 |CATIPAN, ARAGAIL D. | 20%   | Project Information  |
+| 22-00303 | ILAGAN, KEANA MAY C.| 31%   | Developer |
 | 22-08898 | MARASIGAN, YHRON LIESHIEN O. | 19%   | Project Information  |
 |          | TOTAL             | 100%  |                 |
 
