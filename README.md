@@ -12,7 +12,7 @@ Good Health and Well- being #3 in SDG. A basic Calorie Tracker using Pycharms.
 ## Project Overview 
 * This sdg project was created to fulfill academic requirements, and in accordance with Sustainable Development Goals #3. 
 
-# *Features*
+## Features
 * The Food class is defined using the dataclass decorator from the dataclasses module, representing different food items with attributes such as name, calories, protein, fats, and carbs.
 * The main() function is the entry point of the program, providing a menu-driven interface for users to add foods, visualize their nutritional progress, or quit the program.
 ![image](https://github.com/KeanaMay/Nutrition-Tracker/assets/153400825/195828bd-1092-4353-a963-199fd16b62ef)
