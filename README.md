@@ -7,7 +7,7 @@
 * Marasigan, Yhron Lieshien O.
 
 ## SDG
-Good Health and Well- being #3 in SDG A basic Calorie Tracker using Pycharms.
+Good Health and Well- being #3 in SDG. A basic Calorie Tracker using Pycharms.
 
 ## Project Overview 
 * This sdg project was created to fulfill academic requirements, and in accordance with Sustainable Development Goals #3. 
