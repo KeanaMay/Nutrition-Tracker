@@ -10,7 +10,7 @@
 Good Health and Well- being #3 in SDG. A basic Calorie Tracker using Pycharms.
 
 ## Project Overview 
-* This sdg project was created to fulfill academic requirements, and in accordance with Sustainable Development Goals #3. 
+This sdg project was created to fulfill academic requirements, and in accordance with Sustainable Development Goals #3. 
 
 ## Features
 * The Food class is defined using the dataclass decorator from the dataclasses module, representing different food items with attributes such as name, calories, protein, fats, and carbs.
