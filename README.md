@@ -1,15 +1,15 @@
 # *Nutrition Tracker*
 
-# *Members*
+## Members
 * Arcoirez April C.
 * Catipan Aragail D.
 * Ilagan, Keana May C.
 * Marasigan, Yhron Lieshien O.
 
-# *SDG*
+## SDG
 Good Health and Well- being #3 in SDG A basic Calorie Tracker using Pycharms.
 
-# *Project Overview* 
+## Project Overview 
 * This sdg project was created to fulfill academic requirements, and in accordance with Sustainable Development Goals #3. 
 
 # *Features*
@@ -22,20 +22,21 @@ Good Health and Well- being #3 in SDG A basic Calorie Tracker using Pycharms.
 * Visualizing Progress: Provides visual representations of macronutrient distribution, progress towards macronutrient goals, and progress towards calorie intake goals using Matplotlib graphs (pie chart, bar chart, and line plot).
 * Display: Shows a summary of the total intake of calories, protein, fats, and carbs.
 
-# *Technologies Used* 
+## Technologies Used 
 * Python 
 * Pycharm
 
-# *Group Assessment*
+# Individual and Group Assessment
+## Group Assessment
 |  SR-CODE |       MEMBER      | GRADE |   CONTRIBUTION  |
 |:--------:|:-----------------:|:-----:|:---------------:|
-| 22-06012 | ARCOIREZ, APRIL C.   | 30%   | Coding |
-| 22-06261 |CATIPAN, ARAGAIL D. | 20%   | Coding  |
+| 22-06012 | ARCOIREZ, APRIL C.   | 30%   | Developer |
+| 22-06261 |CATIPAN, ARAGAIL D. | 20%   | Developer  |
 | 22-00303 | ILAGAN, KEANA MAY C.| 31%   | Project Information |
 | 22-08898 | MARASIGAN, YHRON LIESHIEN O. | 19%   | Project Information  |
 |          | TOTAL             | 100%  |                 |
 
-# *Self Assessment*
+## Self Assessment
 |       Metric       | 4 | 3 | 2 | 1 |
 |:------------------:|:-:|:-:|:-:|:-:|
 | Code Reusability   |   |   | ✔ |   |
