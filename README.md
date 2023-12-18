@@ -1,8 +1,8 @@
 # *Nutrition Tracker*
 
 ## Members
-* Arcoirez April C.
-* Catipan Aragail D.
+* Arcoirez, April C.
+* Catipan, Aragail D.
 * Ilagan, Keana May C.
 * Marasigan, Yhron Lieshien O.
 
